@@ -2,5 +2,5 @@
 <p>Mahasiswa Teknik Komputer semester 6 di Politeknik Negeri Jember. yang selalu termotivasi untuk mencoba hal baru, berpikir kritis dan kreatif.Memiliki ketertarikan 
 dibidang UI/UX dan web developer.</p>
 
-<img align="left" src="https://media.giphy.com/media/XAe9aDBIv3arS/giphy.gif" />
+<img align="left" src="<iframe src="https://giphy.com/embed/l0MYsOZQZ8FTdxgiY" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/messi-lionel-leo-l0MYsOZQZ8FTdxgiY">via GIPHY</a></p>" />
 
